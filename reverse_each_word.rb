@@ -1,3 +1,4 @@
 def reverse_each_world(string)
-  w%(string) 
+  arr = w%(string) 
+  arr.each 
 end
