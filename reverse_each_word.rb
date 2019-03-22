@@ -1,1 +1,1 @@
-de
+def reverse each word()
