@@ -1,3 +1,3 @@
 def reverse each word(string)
-  string.
+  string.split.collect {|word| word
 end
